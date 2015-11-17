@@ -1,0 +1,10 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150920_StringReverse\150920_StringReverse\bin\Debug\150920_StringReverse.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150920_StringReverse\150920_StringReverse\bin\Debug\150920_StringReverse.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150920_StringReverse\150920_StringReverse\bin\Debug\150920_StringReverse.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150920_StringReverse\150920_StringReverse\bin\Debug\150920_StringReverse.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150920_StringReverse\150920_StringReverse\obj\Debug\150920_StringReverse.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150920_StringReverse\150920_StringReverse\obj\Debug\150920_StringReverse.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150920_StringReverse\150920_StringReverse\obj\Debug\150920_StringReverse.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150920_StringReverse\150920_StringReverse\bin\Debug\150920_StringReverse.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150920_StringReverse\150920_StringReverse\obj\Debug\150920_StringReverse.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150920_StringReverse\150920_StringReverse\obj\Debug\150920_StringReverse.pdb
